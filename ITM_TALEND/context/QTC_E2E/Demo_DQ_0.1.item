@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_DwW_EH8fEeqv5OUyPzpEiA" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_DwW_En8fEeqv5OUyPzpEiA" comment="" name="TDS_URL" prompt="TDS_URL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="https://tds.us.cloud.talend.com/data-stewardship"/>
+  <contextParameter xmi:id="_DwW_E38fEeqv5OUyPzpEiA" comment="" name="TDC_User" prompt="TDC_User?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="martin.michalski@itmaker.com.ar"/>
+  <contextParameter xmi:id="_DwW_FH8fEeqv5OUyPzpEiA" comment="aqkpaEayRwiW3Oqcy5ELTEtxScwivwH47qVwdw3Twqc0jSC8kYtuiMlPpELORvC-" name="TDC_Pass" prompt="TDC_Pass?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:qrYvc0mNUOpjkHCq1yn9v6v6SD8veiUSjD9Y0LJDY6yF0AgcugYhyrNmw8bMnO0RRwQnG+ghBM0pr/MMWO3tulVyFnwHhinj7WC2VjlIRore1e9Q/cap0dIdYwI="/>
+  <contextParameter xmi:id="_DwW_GH8fEeqv5OUyPzpEiA" comment="" name="Directory" prompt="Directory?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/Users/ITMaker/Desktop/Talend-Studio-20250226_1030-V8.0.1/workspace/"/>
+</talendfile:ContextType>
